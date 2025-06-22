@@ -49,7 +49,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Sidebar menu
-st.sidebar.image("logo.png", width=160)  # Replace with your logo filename
+st.sidebar.image("logo.jpg", width=160)  # Replace with your logo filename
 st.sidebar.title("🎛️ Audio Describer")
 st.sidebar.markdown("**Version:** Audio Version 1")
 st.sidebar.markdown("---")
